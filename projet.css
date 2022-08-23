@@ -1,0 +1,64 @@
+body{
+    border: fit-content double black;
+    background: url(./ima/vue_paradisiaque.37108.jpg) fixed center ;
+    width: 100%;
+}
+section{
+    background-color:rgb(123, 182, 235);
+    width: 100%;
+    height: 47px;
+    justify-content: space-around;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+.main{
+    display: flex;
+    width: 74%;
+    height: 10%;
+    
+}
+img{
+    width: 5vh;
+}
+ input{
+    border: 3px solid rgb(9, 9, 165);
+    border-radius: 15px;
+    width: 65%;
+ }   
+figure{
+    display: flex;
+}
+figure figcaption{
+    text-align: justify;
+    color: aliceblue;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    margin-left: 60vh;
+    color: rgb(5, 35, 61);
+    font-weight: bold;
+    font-style: italic;
+}
+.cn{
+margin-right: 3px;
+}
+.bn{
+    margin-left: 3px;
+}
+#ou,#un{
+    margin-right: 6px;
+    color: rgb(5, 2, 37);
+    font-style: italic;
+    font-weight: bolder;
+}
+.pannel-center  img{
+    width: 95px;
+    margin-left: 15vh;
+}
+#void{
+    width: 30%;
+    height: 70%;
+    margin-left: 20vh;
+}

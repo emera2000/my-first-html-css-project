@@ -1,0 +1,52 @@
+body{
+
+ border: 3px solid black;
+ background-color: white;
+}
+@media screen and (max-width: 480px)
+{
+    p{
+        color:black;
+        background-color: rgb(168, 43, 43);
+        }
+        
+}
+
+video{
+    width: 75vh;  
+}
+figcaption{
+    color:blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+
+}
+.one ,.two,.three{
+    border: 3px double  white;
+    border-radius: 20vh;
+}
+#un{
+    background-color: white;
+    width: 70%;
+    height: 60%;
+}
+#deux{
+    background-color: white;
+    width: 70%;
+    height: 60%;
+}
+div{
+    display: flex;
+}
+p{
+    color:black;
+    font-weight: bold;
+    font-style: italic;
+    font-weight: bolder;
+}
+h4{
+    color:blue;
+    text-decoration: underline;
+    font-weight: bold;
+}
